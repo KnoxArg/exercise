@@ -1,0 +1,30 @@
+ul
+{
+    list-style-type: none;
+}
+
+div ul li
+{
+    margin: 5px;
+}    
+
+img
+{
+    vertical-align: middle; /* | top | bottom */
+}
+div ul li span
+{
+    display: inline-block;
+    vertical-align: middle; /* | top | bottom */
+    padding: 2%;
+    width: 30%;
+}
+
+.delete, .edit
+{
+    margin-left:20px;
+    width: 75px;
+}
+.long{
+      width: 80% !important;
+}
