@@ -25,6 +25,6 @@ App container will wait for DB to be up.
 # Installation
 
  1. Clone repo
- 2. Execute docker-compose up
+ 2. Execute "docker-compose up"
 
  
