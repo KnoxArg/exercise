@@ -68,7 +68,7 @@
                 document.getElementById("img").src       = img.src;
                 document.getElementById("b64").innerHTML = img.src;
             }else{
-                alert('Dimensiones inválidas. Máximo permitido 320x320');
+                alert('Only images with dimensions up to 320x320 are allowed. Please try again');
             }
         }
         if (this.files && this.files[0]) {		
